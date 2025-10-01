@@ -17,7 +17,7 @@ public class StringIntersect {
 
 
     public static void main(String[] args) {
-        System.out.println(stringIntersect("hello", "world", 2)); // true ("lo"? actually "lo" vs "wo" -> false) example other
-        System.out.println(stringIntersect("abcd", "cdef", 2)); // true ("cd")
+        System.out.println(stringIntersect("hello", "world", 2)); 
+        System.out.println(stringIntersect("abcd", "cdef", 2)); 
     }
 }
